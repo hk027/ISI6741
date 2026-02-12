@@ -1,0 +1,2 @@
+The file smallRelationsInsertFile.sql contains data that matches Appendix A exactly. The file contains SQL insert statements to load data into all the tables, after first deleting any data that the tables currently contain.
+The data include students taking courses outside their department, and instructors teaching courses outside their department; this helps detect errors in natural join specifications that accidentally equate department names of students or instructors with department names of courses
